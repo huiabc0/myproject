@@ -1,0 +1,16 @@
+{
+   "name": "xiaowanzi",
+   "age": 18,
+   "bobby": [
+      "滑雪",
+      "摄影"
+   ],
+   "star_sing": [
+      {
+         "name": "刘若英"
+      },
+      {
+         "name": "黄家驹"
+      }
+   ]
+}
